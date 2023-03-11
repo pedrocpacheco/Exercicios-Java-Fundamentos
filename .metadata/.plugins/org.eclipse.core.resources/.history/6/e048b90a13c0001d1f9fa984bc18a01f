@@ -1,0 +1,24 @@
+package exercicio2;
+
+public class CharsDoubles {
+
+	public static void main(String[] args) {
+		
+		double dDouble = 3.14;
+		char cChar = 'A';
+		
+		System.out.println(dDouble);
+		System.out.println(cChar);
+		
+		int dDoubleConvertidoInt = (int) dDouble;
+		char dDoubleConvetidoChar = (char) dDoubleConvertidoInt;
+		System.out.println(dDoubleConvetidoChar);
+		
+		// A = 65 no Unicode -> Passando pra double, temos o valor de 65
+		double cCharConvetidoDouble = (double) cChar;
+		System.out.println(cCharConvetidoDouble);
+		
+		
+	}
+	
+}

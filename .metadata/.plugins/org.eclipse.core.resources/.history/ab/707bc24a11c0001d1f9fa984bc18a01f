@@ -1,0 +1,10 @@
+package exercicio1;
+
+public class ConversaoDeVariaveis {
+
+	int inteiro = 10;
+	float flutuante  = inteiro;
+	
+
+	
+}

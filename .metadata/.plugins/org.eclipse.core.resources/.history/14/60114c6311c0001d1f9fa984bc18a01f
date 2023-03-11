@@ -1,0 +1,15 @@
+package exercicio1;
+
+public class ConversaoDeVariaveis {
+
+	public static void main(String[] args) {
+	
+		int inteiro = 10;
+		float flutuante  = inteiro;
+		
+		System.out.println(flutuante);
+		
+	}
+
+	
+}

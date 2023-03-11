@@ -1,0 +1,22 @@
+package exercicio2;
+
+public class CharsDoubles {
+
+	public static void main(String[] args) {
+		
+		double dDouble = 3.14;
+		char cChar = 'A';
+		
+		System.out.println(dDouble);
+		System.out.println(cChar);
+		
+		char dDoubleConvetidoChar = (char) dDouble;
+		System.out.println(dDoubleConvetidoChar);
+		
+		double cCharConvetidoDouble = (double) cChar;
+		System.out.println(cCharConvetidoDouble);
+		
+		
+	}
+	
+}

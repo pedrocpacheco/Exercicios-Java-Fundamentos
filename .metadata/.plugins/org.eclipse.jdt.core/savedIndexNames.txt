@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Pedro\eclipse-workspace-exercicios-nanocourse-java-fundamentos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+627905145.index
+1382687471.index
+3137963994.index

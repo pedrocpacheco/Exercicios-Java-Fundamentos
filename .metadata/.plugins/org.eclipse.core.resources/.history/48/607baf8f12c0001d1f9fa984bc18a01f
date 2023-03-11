@@ -1,0 +1,17 @@
+package exercicio2;
+
+public class CharsDoubles {
+
+	public static void main(String[] args) {
+		
+		double double = 3.14;
+		char char = 'A';
+		
+		System.out.println(duble);
+		System.out.println(char);
+		
+		char doubleConvetidoChar = (char) double;
+		
+	}
+	
+}

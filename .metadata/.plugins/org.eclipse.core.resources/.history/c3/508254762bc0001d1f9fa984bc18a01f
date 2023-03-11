@@ -1,0 +1,24 @@
+package variaveis.definirVariaveis;
+
+public class DefinirComMatematica {
+
+	public static void main(String[] args) {
+		
+		 // Definindo as variáveis
+        int a = 5;
+        double b = 2.5;
+        float c = 1.8f;
+        long d = 10;
+
+        // Realizando as operações matemáticas
+        double resultado1 = a * b;
+        float resultado2 = d / c;
+        double resultado3 = b + c - a;
+
+        // Imprimindo os resultados na tela
+        System.out.println("Resultado 1: " + resultado1);
+        System.out.println("Resultado 2: " + resultado2);
+        System.out.println("Resultado 3: " + resultado3);
+	}
+	
+}

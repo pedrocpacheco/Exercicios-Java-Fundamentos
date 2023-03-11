@@ -12,8 +12,7 @@ public class DefinirComMatematica {
 		double resultado1 = a * b;
 		System.out.println(resultado1);
 		
-		
-		float resultado2 = d / c;
+		double resultado2 = d / c;
 		System.out.println(resultado2);
 		
 		double resultado3 = b + c - a;
